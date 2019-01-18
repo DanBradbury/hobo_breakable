@@ -4,7 +4,10 @@
 > * Easy usage
 > * Switching gravity on or off is a boolean away.
 > * Implementation open ended; allows for full customization.
+
 ![](https://marketplacecdn.yoyogames.com/images/assets/962/screenshots/2606_original.png?1413938292)
+
+
 ## How to Use
 1. Import the extension into GM
 2. Open the extension and `Import All` resources
